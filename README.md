@@ -14,8 +14,7 @@ src/
 └── enum/            => global enums
 └── exception/       => custom exceptions
 └── modules/         
-    ├── auth/        => authentication module
-    ├── drizzle/     => drizzle module to work with database
+    ├── prisma/      => prisma module to work with database
     └── ...          => other modules
 └── utils/           => global utility functions
 └── app.module.ts    => main module
